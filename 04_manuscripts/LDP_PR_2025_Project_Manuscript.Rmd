@@ -1,0 +1,10 @@
+---
+title: "LDP_PR_2025_Project"
+author: "Madi Philibert"
+date: "2025-09-11"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
