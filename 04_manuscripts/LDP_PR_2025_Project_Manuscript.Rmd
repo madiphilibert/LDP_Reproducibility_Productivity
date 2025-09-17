@@ -1,10 +1,16 @@
 ---
-title: "LDP_PR_2025_Project"
+title: "LDP Productivity and Reproducibility Project Manuscript"
 author: "Madi Philibert"
 date: "2025-09-11"
 output: pdf_document
+bibliography: LDP_PR_2025.bib
+csl: science.csl
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
+
+**Introduction**  
+
+I learned how to write in markdown for the Productivity and Reproducibility 2025 course!
