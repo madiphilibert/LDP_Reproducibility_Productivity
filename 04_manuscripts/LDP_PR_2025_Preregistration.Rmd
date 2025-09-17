@@ -26,7 +26,7 @@ output: prereg::prereg_pdf
 
 Example: Though there is strong evidence to suggest that sugar affects taste preferences, the effect has never been demonstrated in brownies. Therefore, we will measure taste preference for four different levels of sugar concentration in a standard brownie recipe to determine if the effect exists in this pastry. -->
 
-Enter your response here.
+This research plans to take fecal and urine samples from males in breeding pairs from the point of conception to the end of child rearing, and repeat this across multiple years. The fecal samples will be used as a snapshot of the gut microbiome of the male, and the urine will be tested for hormone concentration, specifically focusing on the presence of oxytocin. These data will be compared to the behaviours exhibited by the males during child rearing to determine if there are any patterns between microbiome compositions, hormone concentrations, and increased paternal care.
 
 
 ## Hypotheses
@@ -34,7 +34,7 @@ Enter your response here.
 
 Example: If taste affects preference, then mean preference indices will be higher with higher concentrations of sugar. -->
 
-Enter your response here.
+This project is still in its infancy, and at the time of taking the Productivity and Reproducibility course, no specific hypotheses have been defined yet.
 
 
 # Design Plan
@@ -71,7 +71,7 @@ This question has a variety of possible answers. The key is for a researcher to 
 
 Example: We have a between subjects design with 1 factor (sugar by mass) with 4 levels. -->
 
-Enter your response here.
+This will be an observational study. For the past several years, team members have been in the field collecting samples and documenting behaviour without interfering with the study population.
 
 
 ## Randomization
