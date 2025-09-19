@@ -1,6 +1,7 @@
 ---
-title           : "Preregistration for LDP Productivity and Reproducibility Project Practicing with "palmerpenguins" R Package"
-shorttitle      : "Preregistration for Productivity and Reproducibility Course"
+title           : "Preregistration Practice for Living Data Project 2025 Productivity and Reproducibility 
+Course"
+shorttitle      : "P&R Practice with 'palmerpenguins' data"
 date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
 
 author: 
@@ -11,12 +12,17 @@ affiliation:
   - id          : 1
     institution : University of British Columbia Okanagan
 
+
 output: prereg::prereg_pdf
 ---
 
 # Study Information
+This is a practice preregistration using the "palmerpenguins" dataset from the R package of the same name.
 
-## This is a practice preregistration using the "palmerpenguins" dataset from the R package of the same name.
+## Title
+<!-- Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement. The title should be a specific and informative description of a project. Vague titles such as 'Fruit fly preregistration plan' are not appropriate.
+
+Example: Effect of sugar on brownie tastiness. -->
 
 `r rmarkdown::metadata$title`
 
@@ -34,6 +40,7 @@ For this project, the raw data was extracted from the "palmerpenguins" R package
 
 Example: If taste affects preference, then mean preference indices will be higher with higher concentrations of sugar. -->
 
+Enter your response here.
 
 
 # Design Plan
@@ -69,6 +76,8 @@ Personnel who analyze the data collected from the study are not aware of the tre
 This question has a variety of possible answers. The key is for a researcher to be as detailed as is necessary given the specifics of their design. Be careful to determine if every parameter has been specified in the description of the study design. There may be some overlap between this question and the following questions. That is OK, as long as sufficient detail is given in one of the areas to provide all of the requested information. For example, if the study design describes a complete factorial, 2 X 3 design and the treatments and levels are specified previously, you do not have to repeat that information.
 
 Example: We have a between subjects design with 1 factor (sugar by mass) with 4 levels. -->
+
+Enter your response here.
 
 
 ## Randomization
