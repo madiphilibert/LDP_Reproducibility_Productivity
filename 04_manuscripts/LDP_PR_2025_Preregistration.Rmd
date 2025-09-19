@@ -1,5 +1,5 @@
 ---
-title           : "Preregistration for Eulemur rubriventer Gut Microbiome Study"
+title           : "Preregistration for LDP Productivity and Reproducibility Project Practicing with "palmerpenguins" R Package"
 shorttitle      : "Preregistration for Productivity and Reproducibility Course"
 date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
 
@@ -16,7 +16,7 @@ output: prereg::prereg_pdf
 
 # Study Information
 
-## The relationship of paternal gut microbiome and hormone profiles on the degree of infant care in red-bellied lemurs
+## This is a practice preregistration using the "palmerpenguins" dataset from the R package of the same name.
 
 `r rmarkdown::metadata$title`
 
@@ -26,7 +26,7 @@ output: prereg::prereg_pdf
 
 Example: Though there is strong evidence to suggest that sugar affects taste preferences, the effect has never been demonstrated in brownies. Therefore, we will measure taste preference for four different levels of sugar concentration in a standard brownie recipe to determine if the effect exists in this pastry. -->
 
-This research plans to take fecal and urine samples from males in breeding pairs from the point of conception to the end of child rearing, and repeat this across multiple years. The fecal samples will be used as a snapshot of the gut microbiome of the male, and the urine will be tested for hormone concentration, specifically focusing on the presence of oxytocin. These data will be compared to the behaviours exhibited by the males during child rearing to determine if there are any patterns between microbiome compositions, hormone concentrations, and increased paternal care.
+For this project, the raw data was extracted from the "palmerpenguins" R package, and saved as a .csv to a raw data folder. That is the full extent of data use in this project, and therefore no further elements of this preregistration template will be used.
 
 
 ## Hypotheses
@@ -34,7 +34,6 @@ This research plans to take fecal and urine samples from males in breeding pairs
 
 Example: If taste affects preference, then mean preference indices will be higher with higher concentrations of sugar. -->
 
-This project is still in its infancy, and at the time of taking the Productivity and Reproducibility course, no specific hypotheses have been defined yet.
 
 
 # Design Plan
@@ -70,8 +69,6 @@ Personnel who analyze the data collected from the study are not aware of the tre
 This question has a variety of possible answers. The key is for a researcher to be as detailed as is necessary given the specifics of their design. Be careful to determine if every parameter has been specified in the description of the study design. There may be some overlap between this question and the following questions. That is OK, as long as sufficient detail is given in one of the areas to provide all of the requested information. For example, if the study design describes a complete factorial, 2 X 3 design and the treatments and levels are specified previously, you do not have to repeat that information.
 
 Example: We have a between subjects design with 1 factor (sugar by mass) with 4 levels. -->
-
-This will be an observational study. For the past several years, team members have been in the field collecting samples and documenting behaviour without interfering with the study population.
 
 
 ## Randomization
