@@ -1,0 +1,22 @@
+2025-09-22
+Data dictionary created and edited by Madi Philibert
+
+
+This project uses the "palmerpenguins" dataset from the R package of the same name. The raw data is stored in the 00_raw_data subfolder. It consists of 344 observations and 8 variables.
+The variables are as follows:
+
+species: the species of the penguin observed, a categorical variable with three possible options - Adelie, Chinstrap, and Gentoo
+
+island: the island of the Palmer Archipelago that the penguin was observed on, a categorical variable with three possible options - Biscoe, Dream, Torgersen 
+
+bill_length_mm: the length of the bill from where it meets the skull to the tip, measured in millimeters
+
+bill_depth_mm: the depth of the bill, from top to bottom, measured in millimeters
+
+flipper_length_mm: the length of the flippers from where they meet the body to the tip of the flipper, measured in millimeters
+
+body_mass_g: the weight of the penguin, measured in grams
+
+sex: the sex of the penguin, a categorical variable of male of female
+
+year: the year that the observations were recorded
