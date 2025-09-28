@@ -10,6 +10,6 @@ library(palmerpenguins)
 data(penguins)
 
 ##export raw data as .csv to 00_raw_data file##
-write.csv(penguins_raw,"palmer_penguins_raw.csv")
+write.csv(penguins,"raw_penguin_data.csv")
 
 ##end of analysis in this file to preserve raw data integrity##
